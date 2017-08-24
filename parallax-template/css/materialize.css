@@ -11,6 +11,10 @@ h1 {
   padding-top: 50px;
 }
 
+h5 {
+  color: black;
+}
+
 .materialize-red {
   background-color: #e51c23 !important;
 }
