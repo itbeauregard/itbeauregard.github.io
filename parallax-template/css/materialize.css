@@ -16,8 +16,16 @@ h1 {
   background-color: black;
 }
 
+.sub-title {
+  color: white;
+}
+
 .col {
   text-align: center;
+}
+
+.project-title {
+  color: black;
 }
 
 .black {
