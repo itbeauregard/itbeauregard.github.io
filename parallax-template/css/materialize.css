@@ -12,11 +12,9 @@ h1 {
   padding-top: 10px;
 }
 
-.skill-header {
-  background-color: black;
-  border: 3px solid white;
-  height: 45px;
-  width: 250px;
+.skills,
+.contact {
+  text-align: center;
 }
 
 .name {
